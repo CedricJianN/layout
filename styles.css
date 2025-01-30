@@ -7,6 +7,10 @@ body {
     background-color: #90EE90;
 }
 
+.name-container{
+    text-align: center;
+}
+
 .layout-container {
     display: grid;
     grid-template-rows: auto auto auto;
